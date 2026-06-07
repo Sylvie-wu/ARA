@@ -3,3 +3,4 @@
 ## 3.data construction and cleaning
 ## 4.robustness checks + treatment of endogeneity + result analysis
 ## 5.heterogeneity test + moderator or interaction effect
+## discussion and limitation(every prodide 1 point about your part)
